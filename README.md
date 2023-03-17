@@ -16,7 +16,7 @@ This is a C program that simulates an e-store checkout process. The program begi
 
 <p align="center">
 Output<br/>
-<img src="https://i.imgur.com/AHgLc35.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KC5dy8H.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
