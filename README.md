@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This code is a program that simulates an online store where a customer can add items to their cart and get a total price. The program declares several variables to hold customer details and the prices of different products. The user is asked to input their name, phone number, and e-customer ID. The program then displays a list of items that the customer can add to their cart. The user is repeatedly prompted to enter the item number they want to add to their cart until they choose to stop. The program calculates the total cost of the items in the cart and displays it to the user. Finally, the program thanks the user for shopping with the online store. 
+This is a C program that takes user input for temperature, humidity, wind speed, and precipitation and analyzes it to provide a weather report. It uses if-else statements to determine the type of weather and outputs whether it's hot, pleasant, cool or cold, humid, dry or moderate, and calm, breezy or windy. It also indicates the likelihood of precipitation. The program can be useful for getting an idea of the current weather conditions in a specific location.
 
 <b>Note: The code for this project is saved as 'project.c' in this repository.<b>
 <br />
@@ -16,7 +16,7 @@ This code is a program that simulates an online store where a customer can add i
 
 <p align="center">
 Output<br/>
-<img src="https://i.imgur.com/KC5dy8H.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AHgLc35.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
