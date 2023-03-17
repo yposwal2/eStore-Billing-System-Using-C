@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This is a C program that takes user input for temperature, humidity, wind speed, and precipitation and analyzes it to provide a weather report. It uses if-else statements to determine the type of weather and outputs whether it's hot, pleasant, cool or cold, humid, dry or moderate, and calm, breezy or windy. It also indicates the likelihood of precipitation. The program can be useful for getting an idea of the current weather conditions in a specific location.
+This is a C program that simulates an e-store checkout process. The program begins by declaring variables to hold customer information, product values, and a total value. It then displays the store information and a list of items available for purchase. The program prompts the user to enter their customer information and select items to add to their cart using a do-while loop and a switch statement. The program calculates the total cost of the selected items and displays it to the user. Finally, the program thanks the user for shopping and terminates.
 
 <b>Note: The code for this project is saved as 'project.c' in this repository.<b>
 <br />
